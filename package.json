@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1338.0"
+  },
+  "name": "config-builder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init": "mkdir configs",
+    "download": "node download-configs.js",
+    "sync": "node sync-configs.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
