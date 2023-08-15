@@ -1,3 +1,4 @@
 node_modules/
 *.txt
 configs/*
+.DS_Store
